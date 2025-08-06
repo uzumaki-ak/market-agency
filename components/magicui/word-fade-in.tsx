@@ -16,7 +16,8 @@ export default function WordFadeIn({
   delay = 0.15,
   variants = {
     hidden: { opacity: 0 },
-    visible: (i: any) => ({
+    visible: (i: number) => ({
+
       y: 0,
       opacity: 1,
       transition: { delay: i * delay },

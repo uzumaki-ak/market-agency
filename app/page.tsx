@@ -331,15 +331,12 @@ bg-[linear-gradient(to_right,#8080800a_1px,transparent_1px),linear-gradient(to_b
             Process
           </h1>
 
-          <p
-            className="text-center 
-          py-4 md:w-1/2 mx-auto 
-          text-xl md:text-2xl text-slate-500"
-          >
-            "Each of our services is thoughtfully designed to elevate your
-            business, helping it capture attention and make a lasting
-            impression."
-          </p>
+     <p className="text-center py-4 md:w-1/2 mx-auto text-xl md:text-2xl text-slate-500">
+  &quot;Each of our services is thoughtfully designed to elevate your
+  business, helping it capture attention and make a lasting
+  impression.&quot;
+</p>
+
 
           <div className="flex flex-col md:flex-row items-center justify-center w-full md:w-1/2 mx-auto ">
             <div className="w-full md:w-1/2 order-2 md:order-1">
