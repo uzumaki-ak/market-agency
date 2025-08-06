@@ -26,7 +26,7 @@ import { FiMail } from "react-icons/fi";
 import { Link as ScrollLink, Element } from "react-scroll";
 import { ShootingStarsAndStarsBackgroundDemo } from "@/components/demos/shooting-stars-demo";
 import LetsMakeThingsHappenSection from "@/components/ui/lets-make-things-happen";
-import Chat from "@/components/chatbot-port";
+
 
 const services = [
   {
