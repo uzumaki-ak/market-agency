@@ -558,7 +558,7 @@ bg-[linear-gradient(to_right,#8080800a_1px,transparent_1px),linear-gradient(to_b
           </div>
         </div>
       </footer>
-      <Chat />
+      
     </div>
   );
 }
